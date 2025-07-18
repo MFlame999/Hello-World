@@ -1,5 +1,6 @@
 Einkaufsliste REWE - Gedicht
 
+
 Ich nehm ’ne Banane, die krumm und fein,
 die denkt sich wohl: "Ich will nicht allein!"
 Dazu 'ne Gurke, so grün und glatt,
