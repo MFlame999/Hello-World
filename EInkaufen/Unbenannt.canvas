@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"d652c2fccb1210a9","type":"text","text":"MInd Map\n","x":-320,"y":-460,"width":250,"height":60},
+		{"id":"149cb87706c3b483","type":"file","file":"Markdowns.md","x":-400,"y":-320,"width":260,"height":143},
+		{"id":"16bc615c7c83a107","x":-218,"y":-172,"width":250,"height":60,"type":"text","text":"xl\n"}
+	],
+	"edges":[
+		{"id":"7cf9c943c3cf8d07","fromNode":"16bc615c7c83a107","fromSide":"right","toNode":"149cb87706c3b483","toSide":"right"},
+		{"id":"f8d90bcc3bd39e70","fromNode":"149cb87706c3b483","fromSide":"right","toNode":"d652c2fccb1210a9","toSide":"right"}
+	]
+}
