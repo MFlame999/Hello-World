@@ -15,7 +15,7 @@ ein Würstchen lacht: „Na, wer will ran?“
 Ein Steak, das ruft: „Ich bin dein Held –
 brat mich an, ich koste Geld!“
 
-Der Käse grinst mit Löcherblick,
-er weiß, er macht das Leben schick.
-Ob Gouda, Brie oder Camembert –
-sie duften stark, doch schmecken mehr!
+Mit vollem Korb und leerem Bauch,
+zieh ich nach Haus – das ist der Brauch.
+Die Küche ruft, der Herd ist heiß –
+jetzt wird gekocht, ganz ohne Fleiß! 🍳🛒😄
