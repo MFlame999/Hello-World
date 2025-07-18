@@ -19,3 +19,13 @@ Mit vollem Korb und leerem Bauch,
 zieh ich nach Haus – das ist der Brauch.
 Die Küche ruft, der Herd ist heiß –
 jetzt wird gekocht, ganz ohne Fleiß! 🍳🛒😄
+
+Doch ach, oh Schreck, was war denn das?
+Die Tüte riss – direkt vorm Gras!
+Die Banane rollt, der Käse fliegt,
+der Brokkoli macht Purzelkriegt.
+
+Jetzt meide ich den Rewe fein,
+da lass ich meine Nerven sein.
+Ich geh zu Kaufland, stark und klug –
+denn dort hält jede Tüte Zug! 💪🛍️
